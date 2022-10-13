@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel! :D
+# Hi, I'm Gabriel! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" />
 
 <div align="center">
   <a href="mailto:gabrieladrianofx@gmail.com" target="_blank" rel="noreferrer"> <img alt="Gabriel Adriano E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
@@ -26,10 +26,13 @@
 
 </br>
 
-## :computer: Technologes and Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="40" height="40" /> Technologes and Tools
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,ts,docker,nestjs" />
   </a>
 </p>
+
