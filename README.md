@@ -45,7 +45,7 @@ Atualmente aplicando conceitos como: Git, MySQL, TDD, DDD, Clean Architecture, R
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,docker,react,jest,mysql,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,docker,php,laravel,tailwind,react,jest,mysql,prisma" />
   </a>
 </p>
 
