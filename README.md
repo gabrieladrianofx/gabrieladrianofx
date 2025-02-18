@@ -37,7 +37,9 @@ Atualmente aplicando conceitos como: Git, MySQL, TDD, DDD, Clean Architecture, R
 ## 🎓 Formação Acadêmica
 
 - Tecnologia em Sistemas para Internet - IFRN/CN | 2014 - 2017 (trancado)
-- Graduando em Engenharia de Software - Faculdade Anhaguera | 2021 - 2024 (previsão)
+- Graduando em Engenharia de Software - Faculdade Anhaguera | (Concluído)
+- Pós-Graduação em Engenharia Robótica - Faculdade Anhanguera | (Previsão 07/2025)
+- Pós-Graduação em Inteligência Artificial e Machine Learning - Faculdade Anhanguera | (Previsão 01/2026)
 
 </br>
 
